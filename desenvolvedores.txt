@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Pedro Henrique Cabral
+=======
+Pedro Henrique 
+Nivisson Huann Lindo. 
+>>>>>>> 873126177e6da41bf462b0174a5cf7dbc0cae444
